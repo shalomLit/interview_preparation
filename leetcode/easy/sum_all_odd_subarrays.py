@@ -31,3 +31,7 @@ def sum_odd_length_subarrays(arr):
 
 
 print(sum_odd_length_subarrays([1, 4, 2, 5, 3]))
+import random
+a = [1,2,3,4]
+random.shuffle(a)
+print(a)
