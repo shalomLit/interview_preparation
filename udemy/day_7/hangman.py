@@ -2,7 +2,6 @@ import random
 from shapes import shapes
 
 word_list = ["aardvark", "baboon", "camel"]
-
 chosen_word = random.choice(word_list)
 
 lives = -1
